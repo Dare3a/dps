@@ -13,9 +13,24 @@
 .hero-pozadina {
     position: absolute;
     bottom: 0;
-    /*background: rgb(0, 0, 0); */
-    /*background: rgba(100, 196, 237, 0.1);*/
+    /*background: rgb(0, 0, 0);*/
+    /*background: rgba(100, 196, 237, 0.2);*/
     color: #f1f1f1;
     width: 100%;
     height: 100%;
+}
+.dugme {
+    font-size: 16px;
+    color: white;
+    padding: 4px 10px;
+    background-color: #0fa3b2;
+    border-radius: 50px;
+    box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.50);
+    text-decoration: none;
+}
+
+.dugme:hover {
+    color: white;
+    background-color: #12c0d3;
+
 }
