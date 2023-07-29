@@ -34,3 +34,22 @@
     background-color: #12c0d3;
 
 }
+.dugme:hover {
+    color: white;
+    background-color: #12c0d3;
+
+}
+nav {
+    background-color: #d8f2f4 !important;
+}
+.navbar-brand {
+    color: #262626 !important;
+}
+.nav-link {
+    color: #595959 !important;
+}
+
+.nav-link:hover {
+    /*background-color: #00afb9;*/
+    color: #262626 !important;
+}
