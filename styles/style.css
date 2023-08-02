@@ -22,7 +22,7 @@
 .dugme {
     font-size: 16px;
     color: white;
-    padding: 4px 10px;
+    padding: 4px 20px;
     background-color: #0fa3b2;
     border-radius: 50px;
     box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.50);
@@ -58,4 +58,22 @@ nav {
 }
 .border-levo {
     border-left: 3px solid #0fa3b2;
+}
+.ingrid {
+    background-color: #d8f2f4;
+}
+.dugme-ingrid {
+    font-size: 16px;
+    color: #262626;
+    padding: 4px 20px;
+    border: 1px solid #0fa3b2;
+    border-radius: 50px;
+    box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.50);
+    text-decoration: none;
+}
+
+.dugme-ingrid:hover {
+    color: white;
+    background-color: #12c0d3;
+
 }
