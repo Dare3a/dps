@@ -109,3 +109,10 @@ nav {
     color: white;
     background-color: #12c0d3;
 }
+.interesting {
+    background-image: url("../images/parazit-tirk.jpg");
+    background-size: cover;
+}
+.interesting-pozadina {
+    background-color: rgba(73, 161, 175, 0.5);
+}
