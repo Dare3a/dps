@@ -116,3 +116,12 @@ nav {
 .interesting-pozadina {
     background-color: rgba(73, 161, 175, 0.5);
 }
+.footer-row {
+    border-top: 1px solid #595959;
+}
+.social-network .fab, .social-network  .fas {
+    color: #0fa3b2;
+}
+.social-network a {
+    text-decoration: none;
+}
