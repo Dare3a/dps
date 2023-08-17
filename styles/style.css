@@ -69,7 +69,6 @@ nav {
 .dugme-ingrid:hover {
     color: white;
     background-color: #12c0d3;
-
 }
 .preventiva {
     background-color: #0fa3b2;
@@ -143,4 +142,21 @@ nav {
     /*color: white;*/
     background-color: #f2f2f2;
     color: #262626;
+}
+.dugme-o-nama {
+    font-size: 16px;
+    color: #0fa3b2;
+    padding: 4px 20px;
+    border: 1px solid #0fa3b2;
+    border-radius: 50px;
+    box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.50);
+    text-decoration: none;
+}
+
+.dugme-o-nama:hover {
+    color: white;
+    background-color: #12c0d3;
+}
+.border-botom {
+    border-bottom: #262626 1px solid;
 }
