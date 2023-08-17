@@ -160,3 +160,10 @@ nav {
 .border-botom {
     border-bottom: #262626 1px solid;
 }
+.clanovi a {
+    text-decoration: none;
+    color: #262626;
+}
+.clanovi a:hover {
+    color: #12c0d3;
+}
