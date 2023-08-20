@@ -167,3 +167,6 @@ nav {
 .clanovi a:hover {
     color: #12c0d3;
 }
+table, tr, td, th {
+    background-color: #0fa3b2 !important;
+}
