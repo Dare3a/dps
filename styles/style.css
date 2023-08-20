@@ -170,3 +170,9 @@ nav {
 table, tr, td, th {
     background-color: #0fa3b2 !important;
 }
+.dropdown-menu {
+    background-color: #d8f2f4 !important;
+}
+.dropdown-item:hover {
+    background-color: white !important;
+}
