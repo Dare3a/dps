@@ -176,3 +176,6 @@ table, tr, td, th {
 .dropdown-item:hover {
     background-color: white !important;
 }
+.navbar {
+    font-size: 17px;
+}
