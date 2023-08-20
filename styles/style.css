@@ -203,3 +203,10 @@ table, tr, td, th {
     color: white !important;
     background-color: #0fa3b2 !important;
 }
+.kontakt-pozadina {
+    background-image: url("../images/kontakt-parazit.jpg");
+    background-size: cover;
+}
+.kontakt-background {
+    background-color: rgba(73, 161, 175, 0.4);
+}
