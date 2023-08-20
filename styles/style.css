@@ -179,3 +179,10 @@ table, tr, td, th {
 .navbar {
     font-size: 17px;
 }
+.aktivno > a {
+    color: #262626 !important;
+}
+.aktivno-lista > a {
+    background-color: white !important;
+    color: #262626 !important;
+}
