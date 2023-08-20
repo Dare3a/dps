@@ -178,6 +178,8 @@ table, tr, td, th {
 }
 .navbar {
     font-size: 17px;
+    -webkit-box-shadow: 0 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+    box-shadow: 0 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0, 0, 0, 0);;
 }
 .aktivno > a {
     color: #262626 !important;
