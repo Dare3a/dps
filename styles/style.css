@@ -216,3 +216,10 @@ table, tr, td, th {
 .text-link a:hover {
     color: #12c0d3;
 }
+.statut a {
+    color: white;
+    text-decoration: none;
+}
+.statut a:hover {
+    color: #0fa3b2;
+}
