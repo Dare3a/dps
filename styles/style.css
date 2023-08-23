@@ -210,3 +210,9 @@ table, tr, td, th {
 .kontakt-background {
     background-color: rgba(73, 161, 175, 0.1);
 }
+.text-link a {
+    color: #212529;
+}
+.text-link a:hover {
+    color: #12c0d3;
+}
