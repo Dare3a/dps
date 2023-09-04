@@ -281,3 +281,9 @@ table, tr, td, th {
 .skupstina a:hover {
     color: #0fa3b2;
 }
+.link-blue a {
+    color: #0fa3b2;
+}
+.link-blue a:hover {
+    color: #0c808d;
+}
