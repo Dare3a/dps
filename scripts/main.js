@@ -29,7 +29,7 @@ function toast() {
     setTimeout(() => {
         toastMsg.classList.replace('show', 'hide')
 
-    }, 1200);
+    }, 2000);
 }
 
 // Reset kontakt forme i modal kontakt forme

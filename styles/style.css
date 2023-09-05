@@ -361,3 +361,14 @@ table, tr, td, th {
     border-radius: 8px;
     border: 1px solid white;
 }
+.toast:not(.show) {
+    display: none;
+}
+
+.fade:not(.show) {
+    opacity: 0;
+}
+
+.fade {
+    transition: opacity .15s linear;
+}
