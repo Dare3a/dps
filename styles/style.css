@@ -373,3 +373,11 @@ table, tr, td, th {
 .fade {
     transition: opacity .15s linear;
 }
+.white-link a {
+    color: white;
+    text-decoration: none;
+}
+
+.white-link a:hover {
+    color: #f2f2f2;
+}
