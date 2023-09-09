@@ -381,3 +381,10 @@ table, tr, td, th {
 .white-link a:hover {
     color: #f2f2f2;
 }
+.link-lang a {
+    color: #595959;
+}
+
+.link-lang a:hover {
+    color: #262626;
+}
